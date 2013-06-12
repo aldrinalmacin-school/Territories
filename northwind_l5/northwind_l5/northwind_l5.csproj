@@ -63,6 +63,8 @@
     <Content Include="Scripts\jquery-1.4.1.min.js" />
     <Content Include="supplier.aspx" />
     <Content Include="suppliers.aspx" />
+    <Content Include="territories.aspx" />
+    <Content Include="territory.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -131,6 +133,20 @@
     </Compile>
     <Compile Include="suppliers.aspx.designer.cs">
       <DependentUpon>suppliers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="territories.aspx.cs">
+      <DependentUpon>territories.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="territories.aspx.designer.cs">
+      <DependentUpon>territories.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="territory.aspx.cs">
+      <DependentUpon>territory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="territory.aspx.designer.cs">
+      <DependentUpon>territory.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

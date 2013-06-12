@@ -19,3 +19,10 @@ G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\northwind_l5\bin\B
 G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\northwind_l5\obj\Debug\ResolveAssemblyReference.cache
 G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\northwind_l5\obj\Debug\northwind_l5.dll
 G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\northwind_l5\obj\Debug\northwind_l5.pdb
+G:\Enterprise Computing\Territories\northwind_l5\northwind_l5\obj\Debug\ResolveAssemblyReference.cache
+G:\Enterprise Computing\Territories\northwind_l5\northwind_l5\obj\Debug\northwind_l5.dll
+G:\Enterprise Computing\Territories\northwind_l5\northwind_l5\bin\northwind_l5.dll
+G:\Enterprise Computing\Territories\northwind_l5\northwind_l5\bin\northwind_l5.pdb
+G:\Enterprise Computing\Territories\northwind_l5\northwind_l5\bin\BusinessRules.dll
+G:\Enterprise Computing\Territories\northwind_l5\northwind_l5\bin\BusinessRules.pdb
+G:\Enterprise Computing\Territories\northwind_l5\northwind_l5\obj\Debug\northwind_l5.pdb

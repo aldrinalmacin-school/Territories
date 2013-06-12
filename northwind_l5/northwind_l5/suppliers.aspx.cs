@@ -45,7 +45,7 @@ namespace northwind_l5
         protected void gvSuppliers_RowDataBound(object sender, GridViewRowEventArgs e)
         {
             // This event fires as each row is added  to the grip
-            e.Row.Cells[3].Attributes.Add("onclick", "return confirm('Are you sure?');");
+            e.Row.Cells[2].Attributes.Add("onclick", "return confirm('Are you sure?');");
         }
     }
 }

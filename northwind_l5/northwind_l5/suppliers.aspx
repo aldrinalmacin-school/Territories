@@ -12,7 +12,6 @@
         onrowdatabound="gvSuppliers_RowDataBound">
     <columns>
         <asp:boundfield headertext="Supplier ID" datafield="SupplierID" />
-        <asp:boundfield headertext="Company Name" datafield="CompanyName" />
         <asp:hyperlinkfield headertext="Edit" text="Edit" navigateurl="supplier.aspx"
              datanavigateurlfields="SupplierID"
              datanavigateurlformatstring="supplier.aspx?SupplierID={0}" />

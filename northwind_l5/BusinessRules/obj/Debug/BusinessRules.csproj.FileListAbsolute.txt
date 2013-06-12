@@ -13,3 +13,8 @@ G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\BusinessRules\bin\
 G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\BusinessRules\obj\Debug\ResolveAssemblyReference.cache
 G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\BusinessRules\obj\Debug\BusinessRules.dll
 G:\Enterprise Computing\Class 6\northwind_l5_wed\northwind_l5\BusinessRules\obj\Debug\BusinessRules.pdb
+G:\Enterprise Computing\Territories\northwind_l5\BusinessRules\bin\Debug\BusinessRules.dll
+G:\Enterprise Computing\Territories\northwind_l5\BusinessRules\bin\Debug\BusinessRules.pdb
+G:\Enterprise Computing\Territories\northwind_l5\BusinessRules\obj\Debug\ResolveAssemblyReference.cache
+G:\Enterprise Computing\Territories\northwind_l5\BusinessRules\obj\Debug\BusinessRules.dll
+G:\Enterprise Computing\Territories\northwind_l5\BusinessRules\obj\Debug\BusinessRules.pdb
